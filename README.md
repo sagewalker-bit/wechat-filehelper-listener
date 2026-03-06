@@ -1,5 +1,9 @@
 # 微信文件传输助手监听器（Windows）
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sagewalker-bit/wechat-filehelper-listener/blob/main/LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
 这个工具会持续监听微信 PC 端「文件传输助手」会话，收到新文本时自动复制到剪贴板。
 
 ## 最简单用法（推荐）
