@@ -1,0 +1,20 @@
+{
+  "target_chat": "文件传输助手",
+  "poll_ms": 180,
+  "rebind_ms": 5000,
+  "copy_only_incoming": true,
+  "text_only": true,
+  "log_file": ".\\runtime\\logs\\listener.log",
+  "ocr_chat_left_offset_px": 273,
+  "ocr_chat_right_margin_px": 6,
+  "ocr_message_top_ratio": 0.3,
+  "ocr_message_bottom_ratio": 0.93,
+  "ocr_message_side_padding_px": 8,
+  "ocr_message_left_ratio": 0.3,
+  "ocr_message_right_ratio": 0.98,
+  "ocr_header_top_ratio": 0.0,
+  "ocr_header_bottom_ratio": 0.24,
+  "ocr_target_check_interval_ms": 3000,
+  "ocr_scale": 0.6,
+  "backend_mode": "db"
+}
